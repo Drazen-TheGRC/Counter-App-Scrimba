@@ -36,30 +36,32 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
+
+    border: 2px solid white;
 }
 
 #increment-btn {
     background: darkred;
     opacity: 0.9;
-    border: 1px solid white;
+    
 }
 
 #decrement-btn {
     background: darkgreen;
     opacity: 0.9;
-    border: 1px solid white;
+    
 }
 
 #save-btn {
     background: darkblue;
     opacity: 0.9;
-    border: 1px solid white;
+    
 }
 
 .container {
     max-width: 400px;
     margin: 100px auto ;
-    border: 3px solid white;
+    border: 5px solid white;
     border-radius: 10px;
     
 }
